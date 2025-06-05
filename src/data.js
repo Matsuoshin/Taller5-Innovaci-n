@@ -1,11 +1,12 @@
+//data.js
 export const productos = [
     {
       id: 1,
       nombre: "ALEJANDRA Y SOFIA",
       Diseno: "Nombre del Diseño",
       informacion: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mollis id quam nec pretium. Integer auctor eros pulvinar mattis fringilla. Nulla vel sagittis dui. Ut sagittis nisl sed lectus auctor tempus. Nulla a luctus leo. Fusce id venenatis nibh. Phasellus vulputate ligula pellentesque dignissim tincidunt. Donec ac purus justo. Sed cursus imperdiet gravida. Proin risus erat, accumsan nec elementum at, vulputate vel lorem. Nulla nec lectus sit amet urna eleifend fringilla. Aenean sed justo magna. Ut et massa tincidunt, iaculis elit eget, tristique purus. Pellentesque ac varius ligula. Vivamus augue ante, gravida quis tincidunt et, porta nec nunc. Integer dui eros, pulvinar eget pharetra eget, elementum vel leo.",
-      imagen: "/img/1.png",
-      modelo: "/model/1.glb",
+      imagen: "/public/img/1.png",
+      modelo: "/public/model/1.glb",
       marcadorAR: false,
     },
     {

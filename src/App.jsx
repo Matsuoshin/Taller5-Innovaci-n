@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { productos } from "./data";
-import "@google/model-viewer";
+import ModelViewer from "./ModelViewer"; // 👈 Importamos el componente externo
 import "./App.css";
 
 function App() {
@@ -75,7 +75,7 @@ function App() {
             <article
               className="producto-detalle"
               style={{
-                backgroundImage: `url("fondo.png")`,
+                backgroundImage: `url("/fondo.png")`,
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 backgroundRepeat: "no-repeat",
@@ -102,14 +102,7 @@ function App() {
 
               <section className="modelo-3d">
                 <h3>Modelo 3D</h3>
-                <model-viewer
-                  src={productoDetalle.modelo}
-                  alt={productoDetalle.nombre}
-                  auto-rotate
-                  camera-controls
-                  ar
-                  ar-modes="scene-viewer webxr quick-look"
-                />
+                <ModelViewer productoDetalle={productoDetalle} /> {/* 👈 Pasamos props */}
               </section>
 
               <div className="botones-navegacion">
@@ -139,7 +132,6 @@ function App() {
         )}
       </main>
 
-      {}
       <Logos />
 
       <footer className="footer">
