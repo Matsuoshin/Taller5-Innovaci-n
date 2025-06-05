@@ -15,7 +15,7 @@ export const productos = [
       Diseno: "COOLFLEX",
       informacion: "",
       imagen: "/img/2.png",
-      modelo: "/model/2.glb",
+      modelo: "/model/Andres&Laura.glb",
       marcadorAR: false,
     },
     {
@@ -38,7 +38,7 @@ export const productos = [
     },
     {
       id: 5,
-      nombre: "LAURA BALANTA Y ISABELLA MAMIAN",
+      nombre: "LAURA BALANTA E ISABELLA MAMIAN",
       Diseno: "OVERDRIVE",
       informacion: "Overdrive ha sido desarrollado con un enfoque integral que combina protección, funcionalidad, visibilidad y estilo. Este traje de BMX se Compone de materiales como Bahía, Optico Plus y Segal Wickings, seleccionados por sus propiedades técnicas que permiten al ciclista moverse con libertad, mantenerse cómodo y enfrentar condiciones exigentes propias del BMX. Bahía ofrece elasticidad y un ajuste cenido que favorece la aerodinámica; Optico Plus aporta durabilidad y nitidez en los gráficos del tejido; mientras que Segal Wickings destaca por su resistencia a impactos y a la fricción, siendo un material robusto que no se daña fácilmente ante caídas o roce constante con el terreno. La elección de los colores morado y azul vibrante responde a una intención clara de transmitir fuerza, individualidad y modernidad. El morado simboliza creatividad, energía y carácter. reflejando la personalidad audaz del ciclista. El azul vibrante aporta un efecto visual llamativo que evoca velocidad, precisión y confianza, al mismo tiempo que mejora la visibilidad del deportista en movimiento. Esta paleta de colores crea una identidad visual única y poderosa, alineada con el estilo competitivo y. expresivo del BMX. Como detalle final, Overdrive incorpora un sistema de aromatización textil con menta y lavanda. La menta proporciona una sensación de frescura constante, ayudando a combatir la fatiga durante el esfuerzo físico, mientras que la lavanda aporta un efecto relajante y calmante, ideal para reducir el estrés y mantener el enfoque antes y durante la competencia. Así, Overdrive representa una fusión entre diseño inteligente, tecnología textil avanzada y expresión personal, pensado para acompañar al deportista en cada salto, cada giro y cada caída, con seguridad, estilo y frescura.",
       imagen: "/img/5.png",
@@ -47,7 +47,7 @@ export const productos = [
     },
     {
       id: 6,
-      nombre: "LAURA MARROQUI Y ISABELLA",
+      nombre: "LAURA MARROQUI E ISABELLA",
       Diseno: "EL RITMO HECHO PIEL",
       informacion: "El ritmo hecho piel, un traje inteligente inspirado en la pasión escénica de la salsa en línea estilo Los Angeles, donde cada destello de luz LED acompaña el ritmo preciso del cuerpo que vibra con la música. Confeccionado en telas que abrazan la silueta y liberan el movimiento, este vestuario no solo deslumbra en escena, sino que cuida con sutileza la zona lumbar del bailarín, incorporando discretas bolsas térmicas de gel que alivian el esfuerzo después de cada giro. Es un diseño que no solo viste el arte de bailar, sino que lo protege, lo acompaña y lo celebra, haciendo del cuerpo un territorio donde la tenología y el ritmo se encuentran con ternura y poder. Este vestuario escénico parte de una silueta tipo bodysuit en terciopelo verde, cuya textura profunda realza la figura y transmite elegancia. Los destellos de pedrería crean un juego sutil con la luz, mientras las plumas sintéticas en los laterales aportan volumen y movimiento, evocando la ligereza de un plumaje etéreo.",
       imagen: "/img/6.png",
@@ -87,7 +87,7 @@ export const productos = [
       Diseno: "SOMMERSO",
       informacion: "",
       imagen: "/img/10.png",
-      modelo: "/model/10.glb",
+      modelo: "/model/NATYDAYANA.glb",
       marcadorAR: false,
     },
     {
