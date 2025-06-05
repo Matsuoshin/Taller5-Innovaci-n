@@ -24,7 +24,7 @@ export const productos = [
       Diseno: "ETER EN MOVIMIENTO",
       informacion: "Este vestuario, inspirado en Dernière Danse de Indila, trasciende la gimnasia artística para convertirse en una pieza de expresión emocional. Con influencias del neo-roman-ticismo gótico y la vanguardia, refleja la dualidad entre la fragilidad y la fuerza de un alma en tránsito entre el pasado y la liberación. Pensado como una extensión del cuerpo, el diseño responde a cada movimiento, narrando a través de bordados y aplicaciones una historia de resiliencia. Grietas doradas evocan el kintsugi japonés, abstracciones sugieren un vuelo interrumpido y las transparencias juegan con la tensión entre lo visible y lo oculto. La paleta de colores —azul noche, burdeos y negro profundo, con acentos metálicos y nacarados— representa la belleza melancólica del atardecer, dotando al vestuario de un dramatismo visual que potencia la expresión corporal.", 
       imagen: "/img/3.png",
-      modelo: "/model/3.glb",
+      modelo: "/model/estefania y mariana.glb",
       marcadorAR: false,
     },
     {
@@ -102,7 +102,7 @@ export const productos = [
     {
       id: 12,
       nombre: "SOFIA PAMPLONA",
-      Diseno: "FASION CULTURE",
+      Diseno: "FASHION CULTURE",
       informacion: "Fusion Culture es una obra visual que encapsula la energía, el ritmo y la diversidad cultural de la salsa, un género musical nacido del encuentro vibrante entre naciones y tradiciones. Este vestuario no solo adorna el cuerpo, sino que narra una historia de mestizaje y herencia. Diseñado con un corte asimétrico y dinámico que emula el movimiento constante del baile, el vestido fluye con gracia y pasión, como lo hacen los cuerpos al ritmo de los tambores, las trompetas y las claves. La falda en cascada, que cae más larga en un lateral, evoca la libertad del movimiento y la espontaneidad del estilo salsero. La pieza destaca por su sublimado en tonos neón de fucsia y naranja, colores que vibran con vida propia bajo las luces del escenario. Estos tonos no solo representan la calidez tropical de Cuba, la energía vibrante de Puerto Rico y la pasión urbana de Nueva York, sino que también rinden homenaje a todos los rincones del Caribe y América Latina que dieron forma al género. La tecnología neón aplicada en el sublimado no es solo estética: es una declaración de modernidad que conecta pasado y presente, tradición e innovación. Los detalles en malla color piel y resortes tono piel generan un efecto visual de piel descubierta que aporta sensualidad y elegancia, sin perder el enfoque atlético y artístico del vestuario. Estas transparencias sutiles representan la apertura y conexión entre culturas: no hay barreras, solo armonía y fusión.",
       imagen: "/img/12.png",
       modelo: "/model/RopaPam.glb",
@@ -123,7 +123,7 @@ export const productos = [
       Diseno: "LATIDO SALSERO",
       informacion: "",
       imagen: "/img/14.png",
-      modelo: "/model/14.glb",
+      modelo: "/model/yesica.glb",
       marcadorAR: false,
     },
   ];
