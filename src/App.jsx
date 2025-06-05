@@ -139,8 +139,8 @@ function App() {
           <p>
             Diseño por{" "}
             <a href="https://ragrosstudios.com" target="_blank" rel="noopener noreferrer">
-              <strong>Fabián Posso</strong>, Docente de Ingeniería Multimedia
-            </a>.
+              <strong>Fabián Posso</strong>, Docente de Ingeniería Multimedia.
+            </a>
           </p>
         </div>
       </footer>
